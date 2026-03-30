@@ -9,10 +9,10 @@ A personal web portfolio showcasing my projects and skills, designed with a focu
 * JavaScript (Functional logic)
 
 ## Setup Instructions
-1. Clone the repository: git clone https://github.com/wadzanaikesy/web-prac1.git
+1. Clone the repository: git clone https://github.com/winnetmbishi-cmd/lab-prac1-MBISHI.git
 2. Open index.html in any modern web browser.
 
 ## Live Demo Link
 [Click here to view my project live](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
 
-https://wadzanaikesy.github.io/web-prac1/LAB1/MYHOMEPAGE.HTML
+https://winnetmbishi-cmd.github.io/lab-prac1-MBISHI/portfolio/Home.html
